@@ -169,7 +169,7 @@ img {
   font-size: var(--biggest-font-size);
 }
 .islands__title1 {
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--body-color);
 }
 .islands__description {
