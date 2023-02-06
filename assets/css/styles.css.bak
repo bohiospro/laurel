@@ -208,7 +208,7 @@ img {
   display: inline-flex;
   padding: .15rem;
   background-color: var(--body-color);
-  border-radius: 50%;
+  border-radius: ;
   cursor: pointer;
 }
 
@@ -315,7 +315,7 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
   .islands__description {
-    padding-right: 5rem;
+    padding-right: 8rem;
     margin-bottom: 2rem;
   }
   .islands__video {
