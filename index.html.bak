@@ -19,7 +19,7 @@
         <!--========== HEADER ==========-->
         <header class="header">
             <nav class="nav bd-container">
-                <a href="#" class="nav__logo">Laurel Residences</a>
+                 <a href="#" class="nav__logo" ><img src="assets/img/logo.png" width="100" height="100" ></a>
                 
                 <div class="nav__menu" id="nav-menu">
                     <ul class="nav__list">
