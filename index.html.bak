@@ -27,7 +27,7 @@
 						
 						</a>
 							</li>
-                        <li class="nav__item"><a href="https://www.instagram.com/" class="nav__link "><i class=""></i> llamar</a></li>
+                        <li class="nav__item"><a href="tel:8296840422" class="nav__link "><i class=""></i> llamar</a></li>
                         
                     </ul>
                 </div>
@@ -85,7 +85,7 @@
                                 <h2 class="islands__subtitle">140 m2</h2>
                                 <h1 class="islands__title1">Área social</h1>
                                 <p class="islands__description">El área social cuenta con zona de barbacoa y moderno gimnasio para relajación y actividad física..</p>
-                                <a href="#" class="islands__button">Ver el tour virtual <i class='bx bx-right-arrow-alt islands__button-icon'></i></a>
+                                <a href="https://bohiospro.github.io/laurel/assets/tv/area-social/" class="islands__button">Ver el tour virtual <i class='bx bx-right-arrow-alt islands__button-icon'></i></a>
                             </div>
 
                             <div class="islands__video">
