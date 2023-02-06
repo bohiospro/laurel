@@ -208,12 +208,12 @@ img {
   display: inline-flex;
   padding: .15rem;
   background-color: var(--body-color);
-  border-radius: 50%;
+  border-radius: ;
   cursor: pointer;
 }
 
 .islands__video-icon {
-  font-size: 1.8rem;
+  
   color: var(--first-color);
 }
 
