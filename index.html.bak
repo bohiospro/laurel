@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+<link rel="shortcut icon" href="assets/img/logo.png" type="image/x-icon">
         <!--========== BOX ICONS ==========-->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
         <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
@@ -60,7 +60,7 @@
         
                     <!--========== ISLANDS 2 ==========-->
                     <section class="islands swiper-slide">
-                        <img src="assets/img/bali.jpg" alt="" class="islands__bg">
+                        <img src="assets/img/bali.jpeg" alt="" class="islands__bg">
 
                         <div class="islands__container bd-container">
                             <div class="islands__data">
