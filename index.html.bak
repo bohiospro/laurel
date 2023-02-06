@@ -50,7 +50,7 @@
                             <div class="islands__data">
                                 <h2 class="islands__subtitle">181.07m² </h2>
                                 <h1 class="islands__title">Modelo 1</h1>
-                                <p class="islands__description">Apartamento de lujo con espacioS sofisticados y elegantes que combina comodidad y estilo.</p>
+                                <p class="islands__description">Apartamento de lujo con espacioS sofisticados y elegantes que combinan comodidad y estilo.</p>
                                 <a href="#" class="islands__button">Ver el tour virtual <i class='bx bx-right-arrow-alt islands__button-icon'></i></a>
                             </div>
 
