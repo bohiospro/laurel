@@ -1,0 +1,32 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+tour.description = Tour virtual area social
+
+### Título
+tour.name = Area social- Laurel 
+
+## Media
+
+### Título
+panorama_2B9A0458_27CA_EEAA_41C2_8A7D79910D2C.label = 1
+panorama_2C907A93_27CA_BBBF_41C3_9DEE37FFAC46.label = 3
+panorama_2C90CDB4_27CA_99FA_418C_A59210175495.label = 4
+panorama_2C9134A4_27CB_EF99_41C1_6E0BBE85A915.label = 8
+panorama_2C9173F1_27CB_A97B_417A_81A1E21E4696.label = 6
+panorama_2C9190EE_27CB_6769_41B7_0BC52232CD19.label = 5
+panorama_2C91B3C1_27CB_A99B_41B1_8FE596CE0319.label = 7
+panorama_2C91E67C_27CB_EB69_4184_068EFC7F53A5.label = 9
+panorama_2C932832_27CA_E6F9_41B7_3D3FD91439B5.label = 2
+
+## Acción
+
+### URL
+LinkBehaviour_28518B02_27CB_BA9E_4188_9511683999B7.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_37E1F74C_27CB_AAA9_41B6_C7A1E6FCC037.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_3B702D95_285E_99BB_41BA_89D29CD3FA11.source = +18297337777
+LinkBehaviour_3BD0B69D_285A_EBAB_41C1_82D7ABCCAE16.source = https://www.instagram.com/constructoraluba/?hl=es-la
+LinkBehaviour_3C59AE05_285A_FA9B_41AA_DF9BBD5D96E8.source = +18297337777
+LinkBehaviour_3D75EBDD_285B_99AB_41BF_23FE479EBBBC.source = https://www.instagram.com/constructoraluba/?hl=es-la
