@@ -166,6 +166,7 @@ img {
 .islands__subtitle {
   font-size: var(--big-font-size);
   font-weight: var(--font-medium);
+  margin-bottom:-1rem;
 }
 
 .islands__title {
