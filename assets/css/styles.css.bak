@@ -110,7 +110,9 @@ img {
 .nav__logo, .nav__toggle {
   color: var(--body-color);
 }
-
+.nav__logo {
+  margin-top:20px;
+}
 .nav__link {
   color: var(--first-color-dark);
   font-weight: var(--font-medium);
