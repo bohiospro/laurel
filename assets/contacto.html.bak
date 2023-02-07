@@ -19,28 +19,28 @@
         text-align: center;
         margin: 0 auto;
       }
-      @media (max-width: 600px) {
+      @media (max-width: 500px) {
         .card {
           width: 80%;
         }
       }
       .logo-container {
-        margin-top: 20px;
+        margin-top: 5px;
       }
       .logo-container img {
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
         object-fit: contain;
       }
       .title {
         font-size: 36px;
         color: #333;
-        margin-top: 20px;
+        margin-top: 10px;
       }
       .description {
         font-size: 18px;
         color: #333;
-        margin-top: 20px;
+        margin-top: 15px;
         width: 80%;
       }
       .contact-button {
@@ -50,7 +50,7 @@
         display: inline-block;
         font-size: 18px;
         padding: 10px 20px;
-        margin-top: 20px;
+        margin-top: 15px;
         text-decoration: none;
       }
     </style>
