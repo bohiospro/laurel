@@ -1,0 +1,42 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Sin Título 15
+
+## Media
+
+### Título
+panorama_21770C51_2BDC_B7D5_41B9_087E1BBAC299.label = 1
+panorama_22616C7D_2BDC_97CD_41BE_F9628EAEAD84.label = 2
+panorama_2264041B_2BDF_F755_41C1_C0A6A17B718F.label = 12
+panorama_226414F6_2BDC_B0DF_41C3_F2D6F31A2EDC.label = 19
+panorama_2264196F_2BDF_B1CD_41AB_8D90AE0937F4.label = 10
+panorama_22641F12_2BDF_7157_4196_41E2D2E2B972.label = 8
+panorama_22641F15_2BDF_915D_41C1_5824ED2235C2.label = 14
+panorama_22642523_2BDC_9176_41C5_56C49A14E2A7.label = 20
+panorama_226428F3_2BDF_70D5_4175_13D61452B1B0.label = 17
+panorama_22643137_2BDF_715D_41AB_ABE1A0D8DB9D.label = 7
+panorama_2264386A_2BDC_9FF7_41B8_A05AA7EA0E3B.label = 4
+panorama_22643A9B_2BDF_9355_41C1_FB8F3AB84794.label = 16
+panorama_22644C02_2BDF_9737_41B4_CB4EFDEEE71C.label = 9
+panorama_2264567F_2BDF_93CD_41B9_91647C215B00.label = 11
+panorama_2264C73B_2BDC_9155_41B6_574ADA7DFF47.label = 18
+panorama_2264ECA1_2BDF_B775_41AE_E13C2935AEC5.label = 15
+panorama_2264F198_2BDF_9153_41C2_615B1966A002.label = 13
+panorama_2267EAAE_2BDC_F34F_41AC_D54823922D09.label = 3
+panorama_2267F39B_2BDC_9155_41C3_7B3B12B0D2CF.label = 6
+panorama_2267F645_2BDC_B332_4196_398AB0A8C3EC.label = 5
+
+## Acción
+
+### URL
+LinkBehaviour_28518B02_27CB_BA9E_4188_9511683999B7.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_37E1F74C_27CB_AAA9_41B6_C7A1E6FCC037.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_38AB186F_28A2_DC9D_41B6_C500232D7842.source = https://bohiospro.github.io/laurel/assets/contacto.html
+LinkBehaviour_39A54770_28AD_5482_41B3_6A8B6609B0EC.source = https://bohiospro.github.io/laurel/assets/contacto.html
+LinkBehaviour_3BD0B69D_285A_EBAB_41C1_82D7ABCCAE16.source = https://www.instagram.com/constructoraluba/?hl=es-la
+LinkBehaviour_3D75EBDD_285B_99AB_41BF_23FE479EBBBC.source = https://www.instagram.com/constructoraluba/?hl=es-la
