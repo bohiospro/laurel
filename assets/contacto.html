@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <style>
       body {
         font-family: 'IBM Plex Mono', monospace;
@@ -19,13 +22,8 @@
         text-align: center;
         margin: 0 auto;
       }
-      @media (max-width: 750px) {
-        .card {
-          width: 80%;
-        }
-      }
       .logo-container {
-        margin-top: 5px;
+        margin-top: -10px;
       }
       .logo-container img {
         width: 150px;
@@ -35,12 +33,12 @@
       .title {
         font-size: 36px;
         color: #333;
-        margin-top: 10px;
+        margin-top: 5px;
       }
       .description {
         font-size: 18px;
         color: #333;
-        margin-top: 15px;
+        margin-top: 10px;
         width: 80%;
       }
       .contact-button {
@@ -50,19 +48,25 @@
         display: inline-block;
         font-size: 18px;
         padding: 10px 20px;
-        margin-top: 15px;
+        margin-top: -5px;
         text-decoration: none;
       }
     </style>
   </head>
   <body>
-    <div class="card">
-      <div class="logo-container">
-        <img src="img/logo.png" alt="logo">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 offset-md-3 col-sm-12">
+          <div class="card">
+            <div class="logo-container">
+              <img src="img/logo.png" alt="logo">
+            </div>
+            <h1 class="title">Contátanos </h1>
+            <p class="description">Llámanos al <br>829-733-7777 o da click en el botón.</p>
+            <a href="tel:+18297337777" class="contact-button">Llámanos</a>
+          </div>
+        </div>
       </div>
-      <h1 class="title">Contatanos </h1>
-      <p class="description">Llamandonos al <br>829-733-7777 o da click en el boton.</p>
-      <a href="tel:+18297337777" class="contact-button">llamanos</a>
     </div>
   </body>
 </html>
