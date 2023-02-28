@@ -66,12 +66,9 @@
                     <div class="home__data">
 					<img src="assets/img/logo1.png" width="300" height="" alt="">
                         
-                       <p class="home__description">
-Bienvenidos al Laurel Residence,
- una torre ubicadas en una de las
- mejores zonas de la ciudad de Santiago de los Caballeros.
- este edificio de lujo ofrece a sus inquilinos
- una experiencia de vida única.                        </p>
+                       <p class="home__description"> 
+					   Bienvenido a Laurel Residence, Experimenta nuestros tours virtuales y descubre el hogar de tus sueños.
+                       </p>
     
                         <a href="#popular" class="nav__button button">Ver tours virtuales      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: rgba(255, 255, 255, 1);transform: ;msFilter:;"><path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10 10-4.486 10-10S17.514 2 12 2zm0 15-5-5h4V7h2v5h4l-5 5z"></path></svg></a>
     
@@ -116,7 +113,7 @@ Bienvenidos al Laurel Residence,
                                     <h3 class="popular__title">
                                         Modelo A
                                     </h3>
-                                    <a href="#" class="nav__button button">Ver tour virtual</a>
+                                    <a href="https://bohiospro.github.io/laurel/assets/tv/modelo1/" class="nav__button button">Ver tour virtual</a>
                                 </div>
                             </article>
 
