@@ -303,9 +303,7 @@ body.dark-theme {
 
 /*=============== HOME ===============*/
 .home {
-  background: linear-gradient(170deg, 
-                hsl(0, 0%, 22%) 0%,
-                hsl(0, 0%, 6%) 30%);
+  background: #BEC6BD;
   padding-bottom: 0;
 }
 
@@ -322,11 +320,11 @@ body.dark-theme {
 .home__title {
   font-size: var(--biggest-font-size);
   line-height: 120%;
-  margin-bottom: 1.rem;
+  margin-bottom: 0.5rem;
 }
 
 .home__description {
-  color: var(--text-color-light);
+  color: #40553C;
   margin-bottom: 2rem;
 }
 
