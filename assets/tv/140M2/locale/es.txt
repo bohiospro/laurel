@@ -1,0 +1,50 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+tour.description = 140 M2
+
+### Título
+tour.name = Modelo 2- Laurel
+
+## Skin
+
+### Texto Multilínea
+HTMLText_38F2C06F_37A4_8AF0_4198_11904720CCA1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.380391891891892vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:6.38vh;font-family:'Bebas Neue Bold';">Aviso legal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.432432432432433vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:2.43vh;font-family:'Bebas Neue Bold';">Las imágenes, planos y realidad virtual utilizados para la promoción y venta del proyecto son una representación gráfica y arquitectónica del proyecto y los mismos están sujeto a modificaciones sin previo aviso.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.432432432432433vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:2.43vh;font-family:'Bebas Neue Bold';">Las ilustraciones de decoración y amoblamiento del interior de apartamentos y áreas comunes son a modo ilustrativos y no están incluidos en la oferta comercial de estos inmuebles.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.432432432432433vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:2.43vh;font-family:'Bebas Neue Bold';"> la constructora se reserva el derecho de modificar detalles de diseño, colores y equipamiento y especificaciones de materiales de apartamentos y áreas comunes.</SPAN></SPAN></DIV></div>
+HTMLText_3AC3F089_3763_8A30_41C7_9A88EB1EE4AB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.830000000000003vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:7.83vh;font-family:'Bebas Neue Bold';">Aviso legal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.985074626865672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:2.99vh;font-family:'Bebas Neue Bold';">Las imágenes, planos y realidad virtual utilizados para la promoción y venta del proyecto son una representación gráfica y arquitectónica del proyecto y los mismos están sujeto a modificaciones sin previo aviso.Las ilustraciones de decoración y amoblamiento del interior de apartamentos y áreas comunes son a modo ilustrativos y no están incluidos en la oferta comercial de estos inmuebles.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.985074626865672vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#7daea5;font-size:2.99vh;font-family:'Bebas Neue Bold';"> la CONSTRUCTORA ora se reserva el derecho de modificar detalles de diseño, colores y equipamiento y especificaciones de materiales de apartamentos y áreas comunes.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Media
+
+### Título
+panorama_39A56535_304E_C5A1_41C2_BDFF6C4E034A.label = 17
+panorama_39A5B1C7_304E_5CE1_4162_BDF8A906E8D4.label = 19
+panorama_39A5D044_304E_5BE7_41C7_C0EAC60C7392.label = 21
+panorama_39A5E12C_304E_7DA7_41A8_4C25049B7F71.label = 20
+panorama_39A65370_304E_3DBF_416B_75EB46683D60.label = 18
+panorama_39A67EC0_304E_44DF_41C3_4A71D6DCCEFA.label = 10
+panorama_39A69C40_304E_4BDF_41AC_8E25FA0C2B99.label = 12
+panorama_39A6B5FE_304E_C4A3_41C2_83A64B3BEB11.label = 16
+panorama_39A6B6FC_304E_C4A7_41C6_A29AD14D1680.label = 15
+panorama_39A6CD7D_304E_45A1_4188_189E0FDC310B.label = 11
+panorama_39A6EB23_304E_4DA1_4172_FAF42D77B356.label = 13
+panorama_39A6F930_304E_CDBF_4196_B2F309DAA75C.label = 14
+panorama_4230972B_4E42_4ECD_419F_051A7DDB67CC.label = 4
+panorama_42497F65_4E3D_DD45_41C1_AAFA16F15A18.label = 3
+panorama_4267C984_4E3E_45BB_41C7_D5C83D64F9E4.label = 2
+panorama_4282B0A8_4E45_C3CB_41D1_D3DAD05412C7.label = 8
+panorama_428D3F9C_4E46_DDCB_41B0_76C866C90581.label = 9
+panorama_42D038B3_4E42_43DD_41D1_E8A327CA9FDE.label = 7
+panorama_42E512C0_4E42_C7BB_41D2_7A4D5CBE634C.label = 5
+panorama_42E69D8A_4E43_FDCF_41C4_601D0F241B05.label = 6
+panorama_435365D5_4E3E_CD45_41CA_67EC0C06E5E6.label = 1
+
+## Acción
+
+### URL
+LinkBehaviour_28518B02_27CB_BA9E_4188_9511683999B7.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_37E1F74C_27CB_AAA9_41B6_C7A1E6FCC037.source = https://bohiospro.github.io/laurel/
+LinkBehaviour_38AB186F_28A2_DC9D_41B6_C500232D7842.source = https://bohiospro.github.io/laurel/assets/contacto.html
+LinkBehaviour_39A54770_28AD_5482_41B3_6A8B6609B0EC.source = https://bohiospro.github.io/laurel/assets/contacto.html
+LinkBehaviour_3BD0B69D_285A_EBAB_41C1_82D7ABCCAE16.source = https://www.instagram.com/constructoraluba/?hl=es-la
+LinkBehaviour_3D75EBDD_285B_99AB_41BF_23FE479EBBBC.source = https://www.instagram.com/constructoraluba/?hl=es-la
